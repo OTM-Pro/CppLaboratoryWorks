@@ -1,3 +1,6 @@
+/*Задание:
+*/
+
 #include <iostream>
 #include <ctime>
 #include <random>
