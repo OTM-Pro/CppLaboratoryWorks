@@ -1,3 +1,6 @@
+/*Задание:
+*/
+
 #include <iostream>
 using namespace std;
 
