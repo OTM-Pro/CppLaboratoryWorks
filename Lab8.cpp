@@ -1,5 +1,9 @@
 /*Задание:
-*/
+В одномерном массиве, состоящем из n вещественных элементов:
+1) вычислить сумму отрицательных элементов массива;
+2) вычислить произведение элементов массива, расположенных между максимальным и минимальным элементами;
+3) упорядочить элементы массива по возрастанию.
+При решении использовать динамический массив.*/
 
 #include <iostream>
 #include <ctime>
@@ -21,7 +25,7 @@ int main()
     }
     
     int maxIndex, minIndex;
-    cout << "\n\n" << "1) Sum (";
+    cout << "\n" << "Sum (";
     for (int i = 0; i < 10; i++)
     {
         if (arr[i] < 0)
@@ -41,7 +45,7 @@ int main()
         }
     }
     
-    cout << "):  " << sum << "\n\n2) Product (";
+    cout << "):  " << sum << "\nProduct (";
     if (maxIndex > minIndex) for (int i = minIndex + 1; i < maxIndex; i++) 
     {
         pro *= arr[i];
@@ -52,7 +56,7 @@ int main()
         pro *= arr[i];
         cout << arr[i] << ' ';
     }
-    cout << "): " << pro << endl << endl;
+    cout << "): " << pro << endl;
     
     for (int i = 0; i < 10; i++)
     {
