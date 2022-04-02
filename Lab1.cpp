@@ -39,7 +39,7 @@ int main()
     {
         for (int i = maxIndex + 1; i < minIndex; i++) pro *= arr[i];
     }
-    cout << "1) Sum: " << sum << "\n\n2) Product: " << pro << endl << endl;
+    cout << "Sum: " << sum << "\nProduct: " << pro << endl;
     
     for (int i = 0; i < 10; i++)
     {
@@ -53,7 +53,8 @@ int main()
             }
         }
     }
-    cout << "3) Sorted array: ";
+    
+    cout << "Sorted array: ";
     for (int i = 0; i < 10; i++) cout << arr[i] << ' ';
     
     return 0;
