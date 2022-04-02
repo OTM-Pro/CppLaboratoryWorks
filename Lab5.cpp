@@ -1,5 +1,7 @@
 /*Задание:
-*/
+Дана произвольная целочисленная прямоугольная матрица. Определить:
+1) количество строк, не содержащих ни одного нулевого элемента;
+2) максимальное из чисел, встречающихся в заданной матрице более одного раза.*/
 
 #include <iostream>
 #include <cmath>
@@ -18,7 +20,7 @@ int main()
         for (int j = 0; j < Y; j++) if (arr[i][j] == 0) f = false;
         if (f) amount++;
     }
-    cout << "1) Amount: " << amount << endl;
+    cout << "Amount: " << amount << endl;
     
     int n = 0;
     int *buf = new int [n];
@@ -49,7 +51,7 @@ int main()
     }
     
     for (int i = 0; i < n; i++) if (buf[i] > max) max = buf[i];
-    cout << "2) Max: " << max << endl;
+    cout << "Max: " << max << endl;
     
     return 0;
 }
