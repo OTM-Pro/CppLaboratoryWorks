@@ -1,4 +1,4 @@
-Lab1 я где-то просрал
-Lab2 загрузил
-Lab3 перекинь с компа в шараге
-Lab4 загрузил
+Lab1 - Lost
+Lab2 - Done - Console
+Lab3 - Done - VS22
+Lab4 - Done - VS19
