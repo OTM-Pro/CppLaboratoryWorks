@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\CppLabGame\x64\Debug\CppLabGame.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CppLabGame\x64\Debug\CppLabGame.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CppLabGame\x64\Debug\CppLabGame.Form1.resources
+C:\Users\Admin\Desktop\CppLabGame\x64\Debug\CppLabGame.vcxproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CppLabGame\x64\Debug\CppLabGame.exe
+C:\Users\Admin\Desktop\Lab4\Game\x64\Debug\CppLabGame.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lab4\Game\x64\Debug\CppLabGame.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lab4\Game\x64\Debug\CppLabGame.Form1.resources
+C:\Users\Admin\Desktop\Lab4\Game\x64\Debug\CppLabGame.vcxproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Lab4\Game\x64\Debug\CppLabGame.exe
+C:\Users\Admin\Desktop\Lab4\x64\Debug\CppLabGame.vcxproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lab4\x64\Debug\CppLabGame.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lab4\x64\Debug\CppLabGame.Form1.resources
+C:\Users\Admin\Desktop\Lab4\x64\Debug\CppLabGame.vcxproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Lab4\x64\Debug\CppLabGame.exe

@@ -1,0 +1,4 @@
+D:\Files\ART\My games\CppLabGame\Debug\CppLabGame.vcxproj.AssemblyReference.cache
+D:\Files\ART\My games\CppLabGame\Debug\CppLabGame.Form1.resources
+D:\Files\ART\My games\CppLabGame\Debug\CppLabGame.vcxproj.GenerateResource.cache
+D:\Files\ART\My games\CppLabGame\Debug\CppLabGame.exe
