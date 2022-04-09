@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\TestWinFormAppCpp\x64\Debug\TestWinFormAppCpp.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestWinFormAppCpp\x64\Debug\TestWinFormAppCpp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TestWinFormAppCpp\x64\Debug\TestWinFormAppCpp.MyForm.resources
+C:\Users\Admin\source\repos\TestWinFormAppCpp\x64\Debug\TestWinFormAppCpp.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TestWinFormAppCpp\x64\Debug\TestWinFormAppCpp.exe
+C:\Users\Admin\source\repos\TestWinFormAppCpp\x64\Debug\TestWinFormAppCpp.MyForm1.resources
