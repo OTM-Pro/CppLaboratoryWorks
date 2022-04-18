@@ -1,5 +1,0 @@
-﻿  MyForm.cpp
-C:\Users\Admin\source\repos\TestWinFormAppCpp\MyForm.h(194,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Admin\source\repos\TestWinFormAppCpp\MyForm.h(198,1): warning C4305: инициализация: усечение из "int" в "float"
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  TestWinFormAppCpp.vcxproj -> C:\Users\Admin\source\repos\TestWinFormAppCpp\x64\Debug\TestWinFormAppCpp.exe
