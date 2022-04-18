@@ -1,4 +1,4 @@
-Lab1 - Lost
+Lab1 - Missing
 Lab2 - Done - Console
-Lab3 - Done - VS22
+Lab3 - Missing
 Lab4 - Done - VS22
