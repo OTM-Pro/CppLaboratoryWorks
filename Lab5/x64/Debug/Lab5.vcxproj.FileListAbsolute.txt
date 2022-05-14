@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Lab5\x64\Debug\Lab5.vcxproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab5\x64\Debug\Lab5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Lab5\x64\Debug\Lab5.MyForm.resources
+C:\Users\Admin\source\repos\Lab5\x64\Debug\Lab5.vcxproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Lab5\x64\Debug\Lab5.exe
